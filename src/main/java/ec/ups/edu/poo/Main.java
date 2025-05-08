@@ -2,9 +2,6 @@ package ec.ups.edu.poo;
 
 import ec.ups.edu.poo.ventanas.*;
 
-import java.awt.*;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,9 +13,10 @@ public class Main {
 //        GridLayout1 gL = new GridLayout1();
 //        GridLayoutBorder gLB =new GridLayoutBorder();
 //        Etiqueta e = new Etiqueta();
-        CampoDeTexto cT = new CampoDeTexto();
-
-
+//        CampoDeTexto cT = new CampoDeTexto();
+//        MouseListenerColor mLC = new MouseListenerColor();
+//        InterrupcionesRaton  iR = new InterrupcionesRaton();
+        InterrupcionTeclado iT = new InterrupcionTeclado();
 
 
     }
