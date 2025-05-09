@@ -1,5 +1,6 @@
 package ec.ups.edu.poo;
 
+import ec.ups.edu.poo.adaptadores.InterrupcionesDeAccion;
 import ec.ups.edu.poo.ventanas.*;
 
 
@@ -16,7 +17,12 @@ public class Main {
 //        CampoDeTexto cT = new CampoDeTexto();
 //        MouseListenerColor mLC = new MouseListenerColor();
 //        InterrupcionesRaton  iR = new InterrupcionesRaton();
-        InterrupcionTeclado iT = new InterrupcionTeclado();
+//        InterrupcionTeclado iT = new InterrupcionTeclado();
+//        InterrupcionesVentana iV = new InterrupcionesVentana();
+//        InterrupcionesAccion iA = new InterrupcionesAccion();
+//        InterrupcionesEnfoque iEf = new InterrupcionesEnfoque();
+//        InterrupcionesElemento iEl = new InterrupcionesElemento();
+
 
 
     }
